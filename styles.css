@@ -71,6 +71,6 @@ html, body {
 
   .container {
     background: url(mobile-bg-01.png) #006064 no-repeat center;
-    background-size: cover; } }
+    background-size: 100% 100%; } }
 
 /*# sourceMappingURL=styles.css.map */
