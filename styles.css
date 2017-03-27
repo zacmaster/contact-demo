@@ -3,6 +3,7 @@
 
 html, body {
   width: 100%;
+  min-width: 320px;
   height: 100vh; }
 
 .container {
@@ -33,6 +34,7 @@ html, body {
       opacity: 0; }
 
 #title {
+  min-width: 295px;
   top: 10px; }
 
 #linkedin {
@@ -68,6 +70,7 @@ html, body {
     display: none; }
 
   .container {
-    background-image: url(mobile-bg.png); } }
+    background-image: url(mobile-bg-01.png);
+    background-repeat: no-repeat; } }
 
 /*# sourceMappingURL=styles.css.map */
